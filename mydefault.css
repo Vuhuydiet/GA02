@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Abel');
 
+* {
+    outline: 1px solid lime;
+}
+
 html,
 body {
     background: #fceeb5;

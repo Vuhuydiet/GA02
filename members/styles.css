@@ -35,7 +35,7 @@ h1 {
     width: var(--img_width);
     height: auto;
     border-radius: 20px;
-    border: 2px solid black;    
+    border: 2px solid black;
 }
 
 .details > ul {
@@ -59,10 +59,10 @@ body > p {
     justify-content: center;
 }
 
-a[href='default.html'] {
+a[href='../../default.html'] {
     color: black;
     font-weight: bold;
-    
+
     background-color: antiquewhite;
     padding: 10px 20px;
 
@@ -70,7 +70,7 @@ a[href='default.html'] {
     border: 3px solid black;
 }
 
-a[href='default.html']:hover {
+a[href='../../default.html']:hover {
     color: white;
     background-color: brown;
 }
