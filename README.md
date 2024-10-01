@@ -1,8 +1,6 @@
 # GA02 - HTML and CSS Fundamentals
 
-## Group
-
-## Members
+## Group: No-idea
 
 | Student ID | Full name          |
 | ---------- | ------------------ |
@@ -17,13 +15,10 @@
 https://no-idea-ioq2.onrender.com/default.html
 
 ### Functional
-
-| Feature                                                                                                | Done |
-| ------------------------------------------------------------------------------------------------------ | ---- |
-| Complete the functions in GA02                                                                         | x    |
-| Use external CSS to style the content of the website                                                   | x    |
-| The presentation format across web pages must be consistent                                            | x    |
-| Upload the group website content to a host (specify the URL of the website on the host in the report). | x    |
+- [x] Complete the functions in GA02                                                                         
+- [x] Use external CSS to style the content of the website                                                   
+- [x] The presentation format across web pages must be consistent                                            
+- [x] Upload the group website content to a host (specify the URL of the website on the host in the report). 
 
 #### Self-evaluated score: 10
 
