@@ -16,11 +16,24 @@
 
 https://no-idea-ioq2.onrender.com/default.html
 
-### Functional - Contribution
+### Functional
 
-| Feature                                                                                                | Done | Contributors       |
-| ------------------------------------------------------------------------------------------------------ | ---- | ------------------ |
-| Complete the functions in GA02                                                                         | x    | 22120364, 22120368 |
-| Use external CSS to style the content of the website                                                   | x    | 22120364, 22120441 |
-| The presentation format across web pages must be consistent                                            | x    |                    |
-| Upload the group website content to a host (specify the URL of the website on the host in the report). | x    | 22120441           |
+| Feature                                                                                                | Done |
+| ------------------------------------------------------------------------------------------------------ | ---- |
+| Complete the functions in GA02                                                                         | x    |
+| Use external CSS to style the content of the website                                                   | x    |
+| The presentation format across web pages must be consistent                                            | x    |
+| Upload the group website content to a host (specify the URL of the website on the host in the report). | x    |
+
+#### Self-evaluated score: 10
+
+### Contributions
+
+| Contribution                                     | Contributors                 |
+| ------------------------------------------------ | ---------------------------- |
+| Create HTML, CSS for overview page               | 22120364                     |
+| Create HTML for detail page                      | 22120368                     |
+| Create CSS for detail page                       | 22120441                     |
+| Mapping image for the team image in default.html | 22120441                     |
+| Tuning CSS                                       | 22120364, 22120368, 22120441 |
+| Host webpage                                     | 22120441                     |
