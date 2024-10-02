@@ -2,6 +2,9 @@
 
 * {
     /* outline: 1px solid lime; */
+
+    padding: 0;
+    margin: 0;
 }
 
 html,
@@ -70,10 +73,6 @@ body {
     font-style: italic;
     text-align: center;
     font-size: 14px;
-}
-
-.description, .description ul, .description li {
-    color: #ffffff; /* Change this to your desired text color */
 }
 
 .card h1 {
@@ -179,16 +178,6 @@ body {
     font-size: 55px;
 }
 
-
-
-
-* {
-    /* outline: 1px solid lime; */
-
-    padding: 0;
-    margin: 0;
-}
-
 :root {
     --img_width: 300px;
 }
@@ -224,7 +213,7 @@ h1 {
 
 .details > ul {
     grid-column: 2;
-
+    align-content: center;
     font-size: larger;
 }
 
