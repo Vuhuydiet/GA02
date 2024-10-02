@@ -58,7 +58,7 @@ body {
 .InfoGroup {
     text-transform: uppercase;
     color: #ffffff;
-    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     text-align: center;
     padding-top: 5px;
@@ -70,6 +70,10 @@ body {
     font-style: italic;
     text-align: center;
     font-size: 14px;
+}
+
+.description, .description ul, .description li {
+    color: #ffffff; /* Change this to your desired text color */
 }
 
 .card h1 {
@@ -142,7 +146,7 @@ body {
 }
 
 .card .additional .more-info h1 {
-    color: #fff;
+    color: black;
     margin-bottom: 5px;
 }
 
@@ -150,7 +154,7 @@ body {
     display: flex;
     justify-content: left;
     align-items: center;
-    border: 1px dashed rgb(0, 0, 0);
+    border: 1px dashed black;
     height: 100%;
 }
 
