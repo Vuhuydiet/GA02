@@ -24,11 +24,11 @@ https://no-idea-ioq2.onrender.com/default.html
 
 ### Contributions
 
-| Contribution                                     | Contributors                 |
-| ------------------------------------------------ | ---------------------------- |
-| Create HTML, CSS for overview page               | 22120364                     |
-| Create HTML for detail page                      | 22120368                     |
-| Create CSS for detail page                       | 22120441                     |
-| Mapping image for the team image in default.html | 22120441                     |
-| Tuning CSS                                       | 22120364, 22120368, 22120441 |
-| Host webpage                                     | 22120441                     |
+| Contribution                                     | Contributors       |
+| ------------------------------------------------ | ------------------ |
+| Create HTML, CSS for overview page               | 22120364           |
+| Create HTML for detail page                      | 22120368           |
+| Create CSS for detail page                       | 22120441           |
+| Mapping image for the team image in default.html | 22120441           |
+| Tuning CSS                                       | 22120368, 22120441 |
+| Host webpage                                     | 22120441           |
